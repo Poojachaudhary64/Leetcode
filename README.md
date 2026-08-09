@@ -23,8 +23,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Poojachaudhary64/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/Poojachaudhary64/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Poojachaudhary64/Leetcode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Poojachaudhary64/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
